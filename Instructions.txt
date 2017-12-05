@@ -1,0 +1,19 @@
+Extract the contents of this folder to your  desktop.
+Open google chrome.
+Menu
+More tools
+Extensions
+Tick Developer mode (top right)
+Click Load unpack extension
+select the folder containing extracted contents of the zip.
+click ok
+Now reload the e-chat room and the plugion should present some options bottom left of the screen.
+
+
+extra info:
+Turn off ig rpt msgs: Turn off ignoring repeat message senders.
+Turn off frnd ntifs: Turn off desktop notifications when a friend joins.
+Block Sounds: allowFriends makes sound only if a friend messages you.
+Inc shrt msgs(Include Short Messages)
+N rpts = ignore:(Number of repeats that gets someone put in ignore)
+

@@ -1,0 +1,25 @@
+{
+  "name": "Injecta",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Automatically ignore spammers who send repeated messages.",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "e-chat automatic ignore"
+  },
+  "permissions": [
+    "http://e-chat.co/room/*",
+    "http://www.e-chat.co/room/*",
+    "notifications",
+          "webRequest",
+		  "webRequestBlocking",
+      "storage"
+  ],
+ "icons":{"48":"logo.png"},
+ "web_accessible_resources": ["enableFriendJoinedNotification.png", "dissableFriendJoinedNotification.png"]
+}
